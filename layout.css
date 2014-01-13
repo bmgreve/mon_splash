@@ -243,6 +243,9 @@ header {
 	.featbox_n2 {
 		width:36%;
 	}
+	.featbox_n3 {
+		width:31%;
+	}
 }
 @media only screen and (max-width:570px) {
 	.featbox_n2 {
@@ -250,6 +253,9 @@ header {
 	}
 	.featbox_n2 img {
 		border-top:1px solid #aaa;
+	}
+	.featbox_n3 {
+		width:80%;
 	}
 }
 
@@ -309,7 +315,6 @@ header {
 	min-width:262px;
 }
 .featbox_n3 {
-	width:31%;
 	min-width:220px;
 	max-width:290px;
 	height:90%;
